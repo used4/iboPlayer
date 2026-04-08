@@ -1,0 +1,38 @@
+{
+  "show": true,
+  "title": "●برو مود تطبيقات وألعاب مهكرة●",
+  "version": "9",
+  "headline": "• لا تفوت الفرصة انضم لقناتنا على تيليجرام لتحميل أفضل التطبيقات المهكرة مجانا!",
+  "description": "•                                  𝗝𝗼𝗶𝗻 𝘁𝗵𝗲 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 ",
+  "force": false,
+  "minVersion": "",
+  "credit": "hiqq3",
+  "features": [
+    "• تطبيقات مهكرة بأحدث الاصدارات",
+    "• جميع مميزات التطبيق مفتوحة ",
+    "• 𝗚𝗲𝘁 𝘁𝗵𝗲 𝗻𝗲𝘄𝗲𝘀𝘁 𝘃𝗲𝗿𝘀𝗶𝗼𝗻𝘀 𝗼𝗳 𝗺𝗼𝗱𝗱𝗲𝗱 𝗮𝗽𝗽𝘀!",
+    "• 𝗔𝗹𝗹 𝗽𝗿𝗲𝗺𝗶𝘂𝗺 𝗳𝗲𝗮𝘁𝘂𝗿𝗲𝘀 𝗮𝗿𝗲 𝘂𝗻𝗹𝗼𝗰𝗸𝗲𝗱!"
+  ],
+  "trial": {
+    "enabled": true,
+    "text": "𝗖𝗮𝗻𝗰𝗲𝗹",
+    "minutes": 21600
+  },
+  "update": {
+    "text": "𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗖𝗵𝗮𝗻𝗻𝗲𝗹",
+    "url": "https://t.me/hiiq3"
+  },
+  "colors": {
+    "bgStart": "#000000",
+    "bgEnd": "#000000",
+    "border": "#CC0605",
+    "accent": "#03C03C",
+    "highlight": "#CC0605",
+    "muted": "#CC0605",
+    "divider": "#CC0605",
+    "textPrimary": "#F2F3F4",
+    "textSecondary": "#93C5FD",
+    "buttonTrial": "#CC0605",
+    "buttonUpdate": "#CC0605"
+  }
+}
